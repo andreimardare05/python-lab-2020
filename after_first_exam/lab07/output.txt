@@ -1,0 +1,9 @@
+[('FC Vaslui'
+ 'CFR Cluj'
+ '2018-12-22 13:45:00 ')
+ ('Rapid'
+ 'Politehnica Iasi'
+ '2010-03-20 11:45:05 ')
+ ('FCSB'
+ 'FC Timisoara'
+ '2020-01-20 20:15:01')]

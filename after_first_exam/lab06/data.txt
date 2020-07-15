@@ -1,0 +1,58 @@
+ALLUSERSPROFILE 	 C:\ProgramData
+AMD_ENTRYPOINT 	 vs/workbench/services/extensions/node/extensionHostProcess
+APPDATA 	 C:\Users\aMardare\AppData\Roaming
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL 	 true
+COMMONPROGRAMFILES 	 C:\Program Files (x86)\Common Files
+COMMONPROGRAMFILES(X86) 	 C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432 	 C:\Program Files\Common Files
+COMPUTERNAME 	 AMARDARE-LAP
+COMSPEC 	 C:\Windows\system32\cmd.exe
+DRIVERDATA 	 C:\Windows\System32\Drivers\DriverData
+ELECTRON_CRASHPAD_PIPE_NAME 	 \\.\pipe\crashpad_17432_FWZQICMFLEOCOPPP
+ELECTRON_RUN_AS_NODE 	 1
+FPS_BROWSER_APP_PROFILE_STRING 	 Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING 	 Default
+HOMEDRIVE 	 C:
+HOMEPATH 	 \Users\aMardare
+LOCALAPPDATA 	 C:\Users\aMardare\AppData\Local
+LOGONSERVER 	 \\DC8
+NUMBER_OF_PROCESSORS 	 4
+ONEDRIVE 	 C:\Users\aMardare\OneDrive
+OS 	 Windows_NT
+PATH 	 C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\ojdkbuild\java-1.8.0-openjdk-1.8.0.212-1\bin;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.212-1\bin;C:\Program Files\nodejs\;C:\Users\aMardare\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Program Files\Git\cmd;C:\Users\aMardare\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\aMardare\AppData\Local\Programs\Python\Python38-32\;C:\Users\aMardare\AppData\Local\Microsoft\WindowsApps;;C:\Users\aMardare\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\aMardare\AppData\Roaming\npm
+PATHEXT 	 .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PIP 	 C:\Users\aMardare\AppData\Local\Programs\Python\Python38-32\Scripts
+PIPE_LOGGING 	 true
+PROCESSOR_ARCHITECTURE 	 x86
+PROCESSOR_ARCHITEW6432 	 AMD64
+PROCESSOR_IDENTIFIER 	 Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL 	 6
+PROCESSOR_REVISION 	 8e09
+PROGRAMDATA 	 C:\ProgramData
+PROGRAMFILES 	 C:\Program Files (x86)
+PROGRAMFILES(X86) 	 C:\Program Files (x86)
+PROGRAMW6432 	 C:\Program Files
+PSMODULEPATH 	 C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC 	 C:\Users\Public
+SESSIONNAME 	 Console
+SYSTEMDRIVE 	 C:
+SYSTEMROOT 	 C:\Windows
+TEMP 	 C:\Users\aMardare\AppData\Local\Temp
+TMP 	 C:\Users\aMardare\AppData\Local\Temp
+USERDNSDOMAIN 	 YONDER.LOCAL
+USERDOMAIN 	 YONDER
+USERDOMAIN_ROAMINGPROFILE 	 YONDER
+USERNAME 	 aMardare
+USERPROFILE 	 C:\Users\aMardare
+VBOX_MSI_INSTALL_PATH 	 C:\Program Files\Oracle\VirtualBox\
+VERBOSE_LOGGING 	 true
+VSCODE_CWD 	 C:\Users\aMardare\AppData\Local\Programs\Microsoft VS Code
+VSCODE_HANDLES_UNCAUGHT_ERRORS 	 true
+VSCODE_IPC_HOOK 	 \\.\pipe\3c92aee134f5fe759cdcd48793a373e0-1.41.1-main-sock
+VSCODE_IPC_HOOK_EXTHOST 	 \\.\pipe\vscode-ipc-960f45c2-0406-4073-88dd-4e9379b7cc25-sock
+VSCODE_LOGS 	 C:\Users\aMardare\AppData\Roaming\Code\logs\20200117T165206
+VSCODE_LOG_STACK 	 false
+VSCODE_NLS_CONFIG 	 {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+VSCODE_NODE_CACHED_DATA_DIR 	 C:\Users\aMardare\AppData\Roaming\Code\CachedData\26076a4de974ead31f97692a0d32f90d735645c0
+VSCODE_PID 	 17432
+WINDIR 	 C:\Windows
